@@ -1,0 +1,13 @@
+{
+  "preferred_languages": {},
+  "default_user": {
+    "preferred_languages": {
+      "source": "en",
+      "target": "en"
+    },
+    "language_pair_count": {
+      "en-en": 5,
+      "en-vi": 2
+    }
+  }
+}
